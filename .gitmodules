@@ -1,0 +1,6 @@
+[submodule "libhydrogen"]
+	path = libhydrogen
+	url = https://github.com/jedisct1/libhydrogen.git
+[submodule "mkglue"]
+	path = mkglue
+	url = https://github.com/andoma/mkglue
